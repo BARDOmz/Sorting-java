@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LineGraphDrawer3
+comment0.text=\r\n\ This\ displays\ the\ graphs\ line/curve.\r\n\ \r\n
+comment1.params=array\ length
+comment1.target=LineGraphDrawer3(int[],\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=int\ getMaxValue()
+comment3.text=\r\n\ This\ program\ gets\ the\ Maxvalue\ from\ the\ integer.\r\n
+numComments=4

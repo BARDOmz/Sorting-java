@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StopWatch
+comment0.text=\r\n\ This\ class\ creates\ a\ Virual\ Stopwatch.\r\n\ \r\n
+comment1.params=
+comment1.target=StopWatch()
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ This\ starts\ the\ stopwatch.\r\n
+comment3.params=
+comment3.target=void\ stop()
+comment3.text=\r\n\ This\ stops\ the\ stopwatch.\r\n
+comment4.params=
+comment4.target=long\ getElapsedTime()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6

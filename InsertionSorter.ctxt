@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InsertionSorter
+comment0.text=\r\n\ This\ class\ creates\ a\ sorter\ for\ other\ classes\r\n\r\n
+comment1.params=arr
+comment1.target=void\ sort(int[])
+numComments=2

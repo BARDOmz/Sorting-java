@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InsertionSortTimer
+comment0.text=\r\n\ This\ program\ displays\ a\ panel\ which\ the\ user\ can\ implement\ a\ set\ amount\ of\ numbers\ to\ get\ a\ display\ for\ their\ number\ of\ arrays.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

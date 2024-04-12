@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GraphDrawer
+comment0.text=\r\n\ This\ class\ draws\ the\ graphs\ x\ and\ y\ numbers\ and\ the\ graph\ itself.\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ size
+comment2.target=void\ drawGraph(int[],\ int)
+comment3.params=character\ count
+comment3.target=java.lang.String\ repeatCharacter(char,\ int)
+numComments=4
